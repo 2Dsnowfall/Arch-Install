@@ -1,0 +1,11 @@
+avahi
+bluez
+bluez-utils
+firewalld
+iptables-nft
+net-tools
+networkmanager
+networkmanager-openvpn
+network-manager-applet
+nss-mdns
+whois
