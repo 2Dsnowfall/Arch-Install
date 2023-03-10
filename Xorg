@@ -2,3 +2,4 @@ xorg-server
 xorg-xinit
 xorg-xkill
 xterm
+network-manager-applet
